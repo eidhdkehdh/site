@@ -1,0 +1,24 @@
+img{
+    width: 350px;
+}
+
+body{
+    background-color: #f1bbff;
+    background-image: url("images/bg1.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    color: crimson;
+    text-shadow: 0px 0px 20px black;
+}
+
+p{
+    font-size: 28px;
+    border-radius: 30px;
+    padding: 20px;
+}
